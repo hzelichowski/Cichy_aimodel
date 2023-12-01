@@ -1,0 +1,10 @@
+Wszystko tworzone w celach humorystycznych.
+
+Znajduja sie tu 3 modele glosu Adama Cichego które udało mi się zrobić z czego:
+cichy_test.zip -> pierwszy testowy model (może się przyda komuś)
+cichy_pro.zip -> drugi stworzony model z delikatnie lepszym audio
+cichy_chad.zip -> ostateczny model i najbardziej doskonały
+
+W folderze probki znajduja się próbki głosu juz po wykorzystaniu każego z modeli
+
+<3
